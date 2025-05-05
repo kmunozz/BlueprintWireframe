@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+<diagram name="Profile-Page">
+<mxGraphModel>
+<root>
+  <mxCell id="0"/>
+  <mxCell id="1" parent="0"/>
+  <mxCell id="2" value="Avatar" style="ellipse;fillColor=#FFFFFF;" vertex="1" parent="1">
+    <mxGeometry x="30" y="25" width="50" height="50" as="geometry"/>
+  </mxCell>
+  <mxCell id="3" value="Username" style="rounded=1;fillColor=#f0f0f0;" vertex="1" parent="1">
+    <mxGeometry x="100" y="30" width="150" height="20" as="geometry"/>
+  </mxCell>
+  <mxCell id="4" value="Bio" style="rounded=1;fillColor=#e5e5e5;" vertex="1" parent="1">
+    <mxGeometry x="100" y="60" width="150" height="50" as="geometry"/>
+  </mxCell>
+  <mxCell id="5" value="Recent Posts" style="rounded=1;fillColor=#f0f0f0;" vertex="1" parent="1">
+    <mxGeometry x="100" y="120" width="150" height="50" as="geometry"/>
+  </mxCell>
+  <mxCell id="6" value="Edit Profile" style="rounded=1;fillColor=#4CAF50;strokeWidth=2;" vertex="1" parent="1">
+    <mxGeometry x="100" y="180" width="150" height="30" as="geometry"/>
+  </mxCell>
+</root>
+</mxGraphModel>
+</diagram>
+</mxfile>
